@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ValorantTeamBuilder/static/css/main.f513a02d.css",
-    "main.js": "/ValorantTeamBuilder/static/js/main.b96a2837.js",
+    "main.css": "/ValorantTeamBuilder/static/css/main.102108a2.css",
+    "main.js": "/ValorantTeamBuilder/static/js/main.9d8c46fc.js",
     "index.html": "/ValorantTeamBuilder/index.html",
-    "main.f513a02d.css.map": "/ValorantTeamBuilder/static/css/main.f513a02d.css.map",
-    "main.b96a2837.js.map": "/ValorantTeamBuilder/static/js/main.b96a2837.js.map"
+    "main.102108a2.css.map": "/ValorantTeamBuilder/static/css/main.102108a2.css.map",
+    "main.9d8c46fc.js.map": "/ValorantTeamBuilder/static/js/main.9d8c46fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.f513a02d.css",
-    "static/js/main.b96a2837.js"
+    "static/css/main.102108a2.css",
+    "static/js/main.9d8c46fc.js"
   ]
 }
