@@ -58,7 +58,7 @@ h1 {
 }
 
 .card-container:hover {
-  filter: brightness(70%);
+  filter: brightness(60%);
   transition: all 80ms ease;
 }
 
