@@ -40,6 +40,14 @@ h1 {
   padding: 3rem 0.5rem;
 }
 
+.app-container h2 {
+  margin-bottom: auto;
+}
+
+.app-container h3 {
+  margin-top: auto;
+}
+
 .card-container {
   background-color: #eee;
   border-radius: 20px;
