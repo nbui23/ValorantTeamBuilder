@@ -67,7 +67,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h2>Valorant Team Builder</h2>
+      <h1>Valorant Team Builder</h1>
       <div className="d-grid gap-2 d-md-flex">
         <button className="btn btn-primary mr-2 rounded" onClick={analyzeTeam}>Analyze</button>
         <button className="btn btn-danger ml-2 rounded" onClick={refreshPage}>Clear</button>
