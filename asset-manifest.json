@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ValorantTeamBuilder/static/css/main.6e6b0137.css",
+    "main.js": "/ValorantTeamBuilder/static/js/main.b96a2837.js",
+    "index.html": "/ValorantTeamBuilder/index.html",
+    "main.6e6b0137.css.map": "/ValorantTeamBuilder/static/css/main.6e6b0137.css.map",
+    "main.b96a2837.js.map": "/ValorantTeamBuilder/static/js/main.b96a2837.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e6b0137.css",
+    "static/js/main.b96a2837.js"
+  ]
+}
