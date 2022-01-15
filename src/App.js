@@ -72,7 +72,6 @@ function App() {
         <button className="btn btn-primary mr-2 rounded" onClick={analyzeTeam}>Analyze</button>
         <button className="btn btn-danger ml-2 rounded" onClick={refreshPage}>Clear</button>
       </div>
-      <h1>Beans</h1>
       <h3>Team Composition: </h3>
       <div className="teamComp">
         {team.map((agentDetails) => (
